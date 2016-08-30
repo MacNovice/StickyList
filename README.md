@@ -1,5 +1,5 @@
 # StickyList
 
- ![image](https://github.com/MacNovice/StickyList/raw/demo.png)
+ ![image](https://github.com/MacNovice/StickyList/blob/master/raw/demo.png)
 
 
