@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="17048726427109"
+    token="8977424507281468596" >
+
+    <task
+        name="javac"
+        duration="257" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="226" />
+    <task
+        name="verifier"
+        duration="19" />
+
+    <artifact
+        location="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/outputs/apk/listTest-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="17048726427109" >
+        <artifact
+            location="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/outputs/apk/listTest-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

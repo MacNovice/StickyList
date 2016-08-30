@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ef4b199414543682c544ccdbda341939d7d9494a.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_49a8371d96eef68438bf5f913009e903f77c749e.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_31e7f2b52217ba8733d9dfc57541ae7f7a9bc047.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_60dca3a7e5a5bb0221242ef61f6d5a9f8af369ba.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_79d8c3850622a7a56dc893153b721d56c0c25478.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_933b91da095bbc4c56b1080c97eb469fc437ffa5.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_bc4f27c0a108918dfb8848064044d7d1887f7649.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_60e7483f6bb403767e0e40b2f30453a73f71f2bc.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_6f56ede7c95e525c3d58e1326f185eb006d633a9.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_90f20be4bb986d470299b3e506a93479d5235b36.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a3a4f1c663b0aaec05ccc95e897af4a59308b373">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/instant-run-bootstrap_28d73dd8e85832d5edaf84dc9d9c5fac63e7bef0.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cf368d4846fdcf4d2b19279d4fe7fe4b96599957">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/instant-run_ceed3658702888f896378d1e19a08e322249a0e6.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b6260fd478f78712c78b5bb38ad6b8ecb93fcebd.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_92f52f229354508acf957412c9f3599c0820e185.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_2c084c0a3e656115ef7f84f694fee3ca3246a9ba.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_e9ddeaa1413c270051c2a01c25e66581d44d06f7.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8522c58ae090aa9f9e912497c964852550967485.jar" />
+    </item>
+    <item
+        jar="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/lujianzhao/Github/StickyList/MyApplication/listTest/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_452d3473410c30e27c274018f3de93a87ee1712a.jar" />
+    </item>
+
+</items>
